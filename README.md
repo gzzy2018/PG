@@ -11,10 +11,18 @@ http://www.fish2018.us.kg/p/jsm.json
 ```
 https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json
 ```
+备用接口2
+```
+http://www.fish2018.ip-ddns.com/p/jsm.json
+```
 
 ## tgsearch服务器
 ```
 http://tg.fish2018.us.kg   
+```
+备用服务器
+```
+http://tg.fish2018.ip-ddns.com
 ```
 
 ## TG搜索相关教程
